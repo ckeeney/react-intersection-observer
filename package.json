@@ -123,7 +123,7 @@
     "@babel/preset-env": "^7.8.6",
     "@babel/preset-flow": "^7.8.3",
     "@babel/preset-react": "^7.8.3",
-    "@babel/preset-typescript": "^7.1.0",
+    "@babel/preset-typescript": "^7.8.3",
     "@storybook/addon-actions": "^5.0.0",
     "@storybook/addon-knobs": "^5.0.6",
     "@storybook/components": "^5.0.0",
